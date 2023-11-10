@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\xampp\htdocs\Sonar\PrAnalysee\phpunit.xml" tests="4" assertions="5" errors="0" failures="0" skipped="0" time="0.060820">
+    <testsuite name="default" tests="4" assertions="5" errors="0" failures="0" skipped="0" time="0.060820">
+      <testsuite name="MyApp\CalculatriceTest" file="C:\xampp\htdocs\Sonar\PrAnalysee\tests\CalculatriceTest.php" tests="4" assertions="5" errors="0" failures="0" skipped="0" time="0.060820">
+        <testcase name="testSubtraction" file="C:\xampp\htdocs\Sonar\PrAnalysee\tests\CalculatriceTest.php" line="21" class="MyApp\CalculatriceTest" classname="MyApp.CalculatriceTest" assertions="1" time="0.055015"/>
+        <testcase name="testMultiplication" file="C:\xampp\htdocs\Sonar\PrAnalysee\tests\CalculatriceTest.php" line="30" class="MyApp\CalculatriceTest" classname="MyApp.CalculatriceTest" assertions="1" time="0.001754"/>
+        <testcase name="testDivision" file="C:\xampp\htdocs\Sonar\PrAnalysee\tests\CalculatriceTest.php" line="39" class="MyApp\CalculatriceTest" classname="MyApp.CalculatriceTest" assertions="2" time="0.002586"/>
+        <testcase name="testAddition" file="C:\xampp\htdocs\Sonar\PrAnalysee\tests\CalculatriceTest.php" line="12" class="MyApp\CalculatriceTest" classname="MyApp.CalculatriceTest" assertions="1" time="0.001464"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

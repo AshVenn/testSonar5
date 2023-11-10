@@ -1,0 +1,8 @@
+{
+    "autoload": { 
+        "psr-4": { "MyApp\\": "myapp" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
